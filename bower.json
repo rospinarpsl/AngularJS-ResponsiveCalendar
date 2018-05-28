@@ -16,7 +16,7 @@
         "calendar",
         "responsive"
     ],
-    "dependencies": {
+    "devDependencies": {
         "angular": "~1.2",
         "bootstrap": "~3.0.3"
     },
